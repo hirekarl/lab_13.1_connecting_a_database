@@ -13,6 +13,7 @@ app.get("/", async (_req, res) => {
     await client.connect()
     return res.json({ message: "Successfully connected to the database!" })
   } catch (error) {
+    console.error(error)
     res.status(500).json({ message: "Failed to connect to the database." })
   } finally {
     await client.close()
