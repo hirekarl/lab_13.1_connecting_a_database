@@ -4,7 +4,7 @@
 2025-RTT-30  
 <time datetime="2025-08-21">2025-08-21</time>  
 
-![Alt text for preview image.](./preview.png)
+![Screenshot of Lab 13.1 with "success" state displayed.](./preview.png)
 
 ## Overview
 ### Viewer Instructions
